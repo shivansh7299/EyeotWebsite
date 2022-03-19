@@ -1,0 +1,28 @@
+{
+  "name": "eyeot_website",
+  "version": "1.0.0",
+  "description": "eyeot website",
+  "main": "emailSender.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh7299/EyeotWebsite.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivansh7299/EyeotWebsite/issues"
+  },
+  "homepage": "https://github.com/shivansh7299/EyeotWebsite#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2",
+    "nodemailer-mailgun-transport": "^2.1.3",
+    "nodemon": "^2.0.15"
+  }
+}
