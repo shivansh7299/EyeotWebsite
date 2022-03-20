@@ -370,7 +370,6 @@ legend + * {
 ::-webkit-datetime-edit-month-field,
 ::-webkit-datetime-edit-year-field {
   padding: 0;
-  position: relative;
 }
 ::-webkit-inner-spin-button {
   height: auto;
